@@ -3,5 +3,5 @@
 	define('ERROR_NAME',	'Bad Request');
 	define('ERROR_MESSAGE',	'Your browser (or proxy) sent a request that this server could not understand.');
 	
-	require_once('../errors.php');
+	require_once(dirname(__DIR__) . '/errors.php');
 ?>

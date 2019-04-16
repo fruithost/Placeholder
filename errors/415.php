@@ -3,5 +3,5 @@
 	define('ERROR_NAME',	'Unsupported Media Type');
 	define('ERROR_MESSAGE',	'The server does not support the media type transmitted in the request.');
 	
-	require_once('../errors.php');
+	require_once(dirname(__DIR__) . '/errors.php');
 ?>

@@ -3,5 +3,5 @@
 	define('ERROR_NAME',	'Not Implemented');
 	define('ERROR_MESSAGE',	'The server does not support the action requested by the browser.');
 	
-	require_once('../errors.php');
+	require_once(dirname(__DIR__) . '/errors.php');
 ?>
