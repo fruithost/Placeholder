@@ -10,16 +10,15 @@ All informations and installations-instructions can be find in the [Documentatio
 
 [![INSTALL_NOW]](https://github.com/fruithost/Documentation/blob/main/Installation.md)
 
-# Support us!
-[Patreon.com](https://www.patreon.com/) is a new way to build and support a community around a project in which you believe.
+# Support us! ![Sponsors](https://img.shields.io/github/sponsors/fruithost?style=social)
+Donations are an important contribution to the development of OpenSource projects. With your donation you can help us to advance our project. Your support enables us to support the programming.
 
-Be a team-player, all feedbacks of our patrons will have the priority. We will build the site for **YOU**!
-# Support the development ![Sponsors](https://img.shields.io/github/sponsors/fruithost?style=social)
+Be a team-player, all feedbacks of our donations will have the priority. We will build the site for **YOU**!
 
 [![PAYPAL]](https://paypal.me/debitdirect) [![PATREON]](https://www.patreon.com/fruithost)
 
 # Contributing
-Feel free to help us with the developing!
+Feel free to help us with the developing! 
 
 [![CODE_OF_CONDUCT]](https://github.com/fruithost/Panel/blob/master/.github/CODE_OF_CONDUCT.md)
 [![CONTRIBUTING]](https://github.com/fruithost/Panel/blob/master/.github/CONTRIBUTING.md)
