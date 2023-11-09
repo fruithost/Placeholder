@@ -1,5 +1,5 @@
 # Placeholder
-These placeholders are for all possible standard views!
+These placeholders are for all possible standard views in ![](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/LOGO_TEXT.png) **fruithost**!
 
 Besides the apache `ErrorDocuments` you can also find other template files here.
 
